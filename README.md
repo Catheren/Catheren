@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Catheren
-- 👀 I’m an Infrastructure Engineer with a focus on Security.
+- 👀 I’m an Infrastructure Engineer with a passion to secure organizations.
