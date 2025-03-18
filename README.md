@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Catheren!  
-🚀 **** Security Engineer ****  
+🚀 **Security Engineer**  
 
 🔹 Passionate about building and securing infrastructure to protect organizations from evolving threats.  
 🔹 Experienced in cloud architectures, automation, and cybersecurity best practices.  
