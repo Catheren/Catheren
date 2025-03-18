@@ -5,10 +5,6 @@
 🔹 Experienced in cloud architectures, automation, and cybersecurity best practices.  
 🔹 Focused on integrating security seamlessly into development and infrastructure workflows.  
 
-### 🎓 Certifications  
-✅ **CISSP** – Certified Information Systems Security Professional  
-✅ **Microsoft Certified: Azure Security Engineer Associate**  
-✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
 
 ### 💡 Areas of Interest  
 🔸 **Infrastructure Security** – Protecting cloud & on-prem environments  
