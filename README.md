@@ -12,4 +12,3 @@
 🔸 **Incident Response Automation** – Automate incident response to improve MTTR and reduce overhead  
 🔸 **Shift-Left Security** – Proactive security in development lifecycle 
 
-Let’s build a secure and resilient future together! 🔐✨  
