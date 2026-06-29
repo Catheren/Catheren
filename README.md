@@ -10,6 +10,17 @@ CISSP · Azure Security Engineer · AWS Solutions Architect
 
 ---
 
+## A few things I've built
+
+- [terraform-security-lab](https://github.com/Catheren/terraform-security-lab) — IaC security pipeline with automated scanning and a CI/CD gate that blocks insecure PRs
+- [aws-security-posture](https://github.com/Catheren/aws-security-posture) — Multi-account AWS security architecture with GuardDuty, Security Hub, Config, and Inspector
+- [securenotes-threat-model](https://github.com/Catheren/securenotes-threat-model) — 46-threat STRIDE/DREAD model with PIPEDA compliance considerations
+- [End-to-end-Devsecops-Pipeline](https://github.com/Catheren/End-to-end-Devsecops-Pipeline) — Jenkins pipeline with SAST, DAST, container scanning, and SCA integrated
+- [cloud-security-engineering-lab](https://github.com/Catheren/cloud-security-engineering-lab-) — IAM attack simulation detected with a Python CloudTrail detection engine
+- [Unified-Log-Parser-and-Enricher](https://github.com/Catheren/Unified-Log-Parser-and-Enricher) — Multi-source log normalization and GeoIP enrichment pipeline
+
+---
+
 ## What I build
 
 ![AWS](https://img.shields.io/badge/AWS-Security-FF9900?logo=amazon-aws&logoColor=white)
