@@ -6,7 +6,7 @@ I got into security because no two days are the same. Every morning brings a dif
 
 Currently exploring AI security — because the attack surface is shifting faster than most defences are.
 
-CISSP · Azure Security Engineer · AWS Solutions Architect
+**CISSP · Azure Security Engineer · AWS Solutions Architect**
 
 ---
 
